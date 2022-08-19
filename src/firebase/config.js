@@ -4,12 +4,12 @@ import "firebase/auth";
 import "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDdAuJ-SH1uLGDRvN5mPF0Li_ctPPa41n0",
+  apiKey: API_KEY,
   authDomain: "projectmanagementtehnickaskola.firebaseapp.com",
   projectId: "projectmanagementtehnickaskola",
   storageBucket: "projectmanagementtehnickaskola.appspot.com",
   messagingSenderId: "484105139902",
-  appId: "1:484105139902:web:b2c7de14466f4a9bd510ef",
+  appId: API_ID,
 };
 
 // init firebase
